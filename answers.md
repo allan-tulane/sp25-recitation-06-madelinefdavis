@@ -17,4 +17,4 @@ Place all written answers from `recitation-07.md` here for easier grading.
 
 - **6)** every fibonacci number is called exactly once. this leads to both a work and span with $O(n)$ complexity
 
-- **8)**
+- **8)** the max reading for any $F_i$ is 2. this leads to both a work and span with $O(n)$ complexity
